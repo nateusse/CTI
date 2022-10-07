@@ -47,3 +47,4 @@ Python interview preparations. Exercises:
 *days_in_month_in_2017
 *smallest_num
 *three_integers_two_equals_find_index_different
+* ajedrez_torre
