@@ -40,3 +40,10 @@ Python interview preparations. Exercises:
 * car_route
 * century
 * [factorial trralining zeros](https://leetcode.com/problems/factorial-trailing-zeroes/)
+*ascending_three_digits
+*Four_digits_palindrome
+*find_index_diferent_nums_three_inputs
+*equals_nums_three_inputs
+*days_in_month_in_2017
+*smallest_num
+*three_integers_two_equals_find_index_different
