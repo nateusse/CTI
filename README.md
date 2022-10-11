@@ -48,3 +48,7 @@ Python interview preparations. Exercises:
 *smallest_num
 *three_integers_two_equals_find_index_different
 * ajedrez_torre
+* ajedrez_reina
+* ajedrez_bioshop
+* Missing_num_array
+* [Single Number](https://leetcode.com/problems/single-number/)
